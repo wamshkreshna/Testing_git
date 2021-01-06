@@ -1,0 +1,11 @@
+https://www.informit.com/articles/article.aspx?p=2756471&seqNum=4
+http://shzhangji.com/blog/2017/09/04/hive-window-and-analytical-functions/
+https://acadgild.com/blog/windowing-functions-in-hive
+
+https://github.com/rich-iannone/so-many-pyspark-examples
+
+https://blog.bi-geek.com/en/spark-sql-optimizador-catalyst/
+
+https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combineb
+
+6th &12 th oct leave
