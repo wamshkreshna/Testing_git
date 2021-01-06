@@ -1,0 +1,12 @@
+
+https://medium.com/datakaresolutions/optimize-spark-sql-joins-c81b4e3ed7da#:~:text=Sort%20Merge%20join%20and%20Shuffle,a%20smaller%20set%20of%20data.
+
+http://site.clairvoyantsoft.com/understanding-resource-allocation-configurations-spark-application/#:~:text=Number%20of%20executors%3A,total%20number%20for%20the%20job.
+
+
+https://www.guru99.com/unit-testing-guide.html
+
+https://data-flair.training/blogs/map-join-in-hive/
+
+
+https://queirozf.com/entries/apache-spark-architecture-overview-clusters-jobs-stages-tasks
