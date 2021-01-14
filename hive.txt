@@ -8,4 +8,11 @@ https://blog.bi-geek.com/en/spark-sql-optimizador-catalyst/
 
 https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combineb
 
+
+for i in `ls -lrt /home/centos/zeppelin_prod/user/zeppelin/notebook | awk '{print$9}'`
+do
+grep -Po '"user": *\K"[^"]*"' /home/centos/zeppelin_prod/user/zeppelin/notebook/$i/note.json | uniq -u >> /tmp/users_list_new.txt
+done;
+
+
 6th &12 th oct leave
